@@ -1,0 +1,59 @@
+{
+    "company_name": "ALUPA FOODS PRIVATE LIMITED",
+    "cin": "U74999KA2016PTC095981",
+    "registered_office": "DHANYALAXMI RICE MILL, 5-110A, PUTTUR, UDUPI",
+    "email": "mail@alupafoods.in",
+    "appointment_date": "01/04/2022",
+    "auditor_name": "MALLYA & MALLYA",
+    "auditor_address": "29/2,1st Floor, Parijatha Complex, Race Course Road, Bangalore, Karnataka-KA, IN 560001",
+    "auditor_pan": "AABFM8893Q",
+    "auditor_frn_or_membership": "001955S",
+    "appointment_type": "Appointment/Re-appointment in AGM",
+    "auditor_category": "Auditor's Firm",
+    "period_of_account": "5",
+    "start_date": "01/04/2022",
+    "end_date": "31/03/2027",
+    "tenure": [
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2016-08-24",
+            "financial_year_end": "2017-03-31"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2017-04-01",
+            "financial_year_end": "2018-03-31"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2018-04-01",
+            "financial_year_end": "2019-03-31"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2019-04-01",
+            "financial_year_end": "2020-03-31"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2020-04-01",
+            "financial_year_end": "2021-03-31"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2021-04-01",
+            "financial_year_end": "2022-03-31"
+        }
+    ],
+    "declaration": {
+        "declarant_name": "Krishna Kumar Rao",
+        "designation": "Director",
+        "din_or_pan": "07579495"
+    },
+    "attachments": [
+        "Consent signed.pdf",
+        "Resolution for appointment of Auditor Signed",
+        "Intimation Letter Signed.pdf",
+        "Acceptance signed.pdf"
+    ]
+}
