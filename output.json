@@ -1,0 +1,62 @@
+{
+    "company_name": "ALUPA FOODS PRIVATE LIMITED",
+    "cin": "U74999KA2016PTC095981",
+    "registered_office": "DHANYALAXMI RICE MILL, 5-110A, PUTTUR, UDUPI",
+    "email": "mail@alupafoods.in",
+    "appointment_date": "01/04/2022",
+    "auditor_name": "MALLYA & MALLYA",
+    "auditor_address": "29/2,1st Floor, Parijatha Complex, Race Course Road, Bangalore, Karnataka-KA, IN 560001",
+    "auditor_pan": "AABFM8893Q",
+    "auditor_frn_or_membership": "001955S",
+    "appointment_type": "Appointment/Re-appointment in AGM",
+    "auditor_email": "mallyaandmallya@gmail.com",
+    "period_of_account": {
+        "from": "01/04/2022",
+        "to": "31/03/2027"
+    },
+    "number_of_financial_years": "5",
+    "whether_appointment_within_limits": "Yes",
+    "date_of_agm": "26/09/2022",
+    "attachments": [
+        "Copy of the intimation sent by company",
+        "Copy of written consent given by auditor",
+        "Copy of resolution passed by the board/company"
+    ],
+    "declaration": {
+        "director_name": "Krishna Kumar Rao",
+        "designation": "Director",
+        "din_or_pan": ""
+    },
+    "previous_appointments": [
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2016",
+            "financial_year_end": "2017"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2017",
+            "financial_year_end": "2018"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2018",
+            "financial_year_end": "2019"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2019",
+            "financial_year_end": "2020"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2020",
+            "financial_year_end": "2021"
+        },
+        {
+            "person_appointed_as_auditor": "Auditor's Firm",
+            "financial_year_start": "2021",
+            "financial_year_end": "2022"
+        }
+    ]
+}
