@@ -44,5 +44,5 @@ After doing the above steps you can run the project by:
   py extractor.py
 ```
 
-
-[![Watch the video]](https://drive.google.com/file/d/1nnxnM7dLy0IIF-PQJu10F_W5IlWk4miz/view?usp=sharing)
+If you want a video explanation:
+[[Watch the video]](https://drive.google.com/file/d/1nnxnM7dLy0IIF-PQJu10F_W5IlWk4miz/view?usp=sharing)
