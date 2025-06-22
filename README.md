@@ -45,4 +45,4 @@ After doing the above steps you can run the project by:
 ```
 
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://drive.google.com/file/d/1nnxnM7dLy0IIF-PQJu10F_W5IlWk4miz/view?usp=sharing)
+[![Watch the video]](https://drive.google.com/file/d/1nnxnM7dLy0IIF-PQJu10F_W5IlWk4miz/view?usp=sharing)
