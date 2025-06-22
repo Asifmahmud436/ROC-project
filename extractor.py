@@ -6,12 +6,12 @@ with open("output.txt", "w", encoding="utf-8") as output:
     for page_num, page in enumerate(doc, start=1):
         output.write(f"\n--- Page {page_num} ---\n\n")
         
-        # Extract plain text
+        # extracting plain text
         text = page.get_text("text")
         output.write("📄 Text:\n")
         output.write(text + "\n")
 
-        # Extract links
+        # extracting links
         links = page.get_links()
         if links:
             output.write("🔗 Links:\n")
@@ -21,6 +21,8 @@ with open("output.txt", "w", encoding="utf-8") as output:
 
 print("✅ Extraction complete! Data saved to 'output.txt'")
 
+
+# turning the output text file into json
 from groq import Groq
 import os
 from dotenv import load_dotenv
@@ -92,7 +94,6 @@ completion = client.chat.completions.create(
 response_text = ""
 for chunk in completion:
     content = chunk.choices[0].delta.content or ""
-    print(content, end="")
     response_text += content
 
 # Clean response_text of markdown-style code blocks
@@ -111,6 +112,8 @@ try:
 except json.JSONDecodeError as err:
     print(f"\n\n Failed to decode JSON: {err}")
 
+
+# img attachment files to txt file
 from pdf2image import convert_from_path
 import pytesseract
 import glob
@@ -140,17 +143,8 @@ for pdf_path in pdf_files:
 
 print("\nProcessing complete!")
 
-from groq import Groq
-import os
-from dotenv import load_dotenv
-import json
-import glob
 
-# Load environment variables
-load_dotenv()
-MY_KEY = os.getenv("SECRET_KEY")
-
-# Initialize Groq client
+# generating the summary
 client = Groq(api_key=MY_KEY)
 
 with open('output.json','r',encoding='utf-8') as f:
